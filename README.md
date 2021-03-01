@@ -3,7 +3,9 @@
 Welcome to my github account. Here are links to a number of my repositories:
 
 
-* [System Dynamics Modelling with R](https://github.com/JimDuggan/SDMR) contains all the supporting material for my text book on using R for system dynamics modelling.)
+* [System Dynamics Modelling with R](https://github.com/JimDuggan/SDMR) contains all the supporting material for my text book on using R for system dynamics modelling.
+* [CT5102, Programming for Data Analytics](https://github.com/JimDuggan/CT5102) contains supporting material for a post-graduate course in R that covers: Base R, teh tidyverse and aspected of advanced R (S3, closures and creating packages).
+* [CT248, Introduction to Modelling](https://github.com/JimDuggan/CT5102), which contains examples from a modelling course using MATLAB and Simulink.
 
 <!--
 **JimDuggan/JimDuggan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
