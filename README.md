@@ -1,5 +1,10 @@
 ### Welcome
 
+Welcome to my github account. Here are links to a number of my repositories:
+
+
+* [System Dynamics Modelling with R](https://github.com/JimDuggan/SDMR) contains all the supporting material for my text book on using R for system dynamics modelling.)
+
 <!--
 **JimDuggan/JimDuggan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
