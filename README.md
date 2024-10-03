@@ -2,10 +2,17 @@
 
 Welcome to my github account. Here are links to a number of my repositories:
 
+**Books**
+
 * [Exploring Operations Research with R](https://github.com/JimDuggan/explore_or) contains all the supporting material for my text book on using R for operations research.
-* [Exploring OR with R Workshop OR65 and OR66](https://github.com/JimDuggan/Exploring-OR-with-R-Workshop) containing the supporting material for teh Making an Impact at the annual OR Society Conference (Bath 2023, Bangor 2024).
 * [System Dynamics Modelling with R](https://github.com/JimDuggan/SDMR) contains all the supporting material for my text book on using R for system dynamics modelling.
+
+**Workshops**
+* [Exploring OR with R Workshop OR65 and OR66](https://github.com/JimDuggan/Exploring-OR-with-R-Workshop) containing the supporting material for *Making an Impact* at the annual OR Society Conference (Bath 2023, Bangor 2024).
 * [System Dynamics Workshop using R](https://github.com/JimDuggan/SDWorkshop) contains supporting material for a workshop on using R with System Dynamics (e.g. NATCOR 2024)
+
+**Teaching Modules @University of Galway**
+
 * [CT5102, Programming for Data Analytics](https://github.com/JimDuggan/CT5102) contains supporting material for a post-graduate course in R that covers: Base R, the tidyverse and aspected of advanced R (S3, closures and creating packages).
 * [CT248, Introduction to Modelling](https://github.com/JimDuggan/CT248), which contains lecture notes for the updated version of CT248 (starting January 2025).
 
