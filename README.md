@@ -16,7 +16,8 @@ Welcome to my github account. Here are links to a number of my repositories:
 * [CT248, Introduction to Modelling](https://github.com/JimDuggan/CT248), which contains lecture notes for the updated version of CT248 (starting January 2025).
 * [CT5102, Programming for Data Analytics](https://github.com/JimDuggan/CT5102) contains supporting material for a post-graduate course in R that covers: Base R, the tidyverse and aspected of advanced R (S3, closures and creating packages).
 
-
+**Research**
+Here is a link to my research profile on [Google Scholar](https://scholar.google.com/citations?user=Rs2NiywAAAAJ&hl=en).
 <!--
 **JimDuggan/JimDuggan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
