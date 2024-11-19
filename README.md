@@ -4,7 +4,7 @@ Welcome to my github account. Here are links to a number of my repositories:
 
 **Books**
 
-* [Exploring Operations Research with R](https://github.com/JimDuggan/explore_or) contains all the supporting material for my text book on using R for operations research.
+* [Exploring Operations Research with R](https://github.com/JimDuggan/explore_or) contains all the supporting material for my text book on using R for operations research. This also contains teaching resources for courses I teach based on the book's content. 
 * [System Dynamics Modelling with R](https://github.com/JimDuggan/SDMR) contains all the supporting material for my text book on using R for system dynamics modelling.
 
 **Workshops**
