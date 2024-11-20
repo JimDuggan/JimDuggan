@@ -23,6 +23,7 @@ Welcome to my github account. Here are links to a number of my repositories:
   * [Pandemic preparedness modelling](https://onlinelibrary.wiley.com/doi/full/10.1002/sdr.1775)
   * [MPox Infection Dynamics](https://www.jasss.org/27/2/6.html)
   * [Analysis of crisis text messages during COVID-19 in Ireland](https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2284242)
+  * [Age-Cohort COVID-19 Modelling as part of Ireland's response](https://www.sciencedirect.com/science/article/pii/S0377221723006136)
 
 **Education and Public Engagement (EPE) activities**
 
