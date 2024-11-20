@@ -18,7 +18,15 @@ Welcome to my github account. Here are links to a number of my repositories:
 
 **Research**
 
-Here is a link to my research profile on [Google Scholar](https://scholar.google.com/citations?user=Rs2NiywAAAAJ&hl=en).
+* Here is a link to my research profile on [Google Scholar](https://scholar.google.com/citations?user=Rs2NiywAAAAJ&hl=en).
+* See some of my latest co-authored publications: [Pandemic preparedness modelling](https://onlinelibrary.wiley.com/doi/full/10.1002/sdr.1775) [MPox Infection Dynamics](https://www.jasss.org/27/2/6.html) [Analysis of crisis text messages during COVID-19 in Ireland](https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2284242)
+
+**Education and Public Engagement (EPE) activities**
+
+I'm working on a number of modules that support EPE activities. See below for further information.
+
+* To be added
+  
 <!--
 **JimDuggan/JimDuggan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
