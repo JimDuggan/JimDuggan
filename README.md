@@ -30,7 +30,7 @@ Welcome to my github account. Here are links to a number of my repositories:
 
 I'm working on a number of modules that support EPE activities. See below for further information.
 
-* To be added
+* [Link to my EPE repository](https://github.com/JimDuggan/EPE)
   
 <!--
 **JimDuggan/JimDuggan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
