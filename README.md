@@ -24,6 +24,7 @@ Welcome to my github account. Here are links to a number of my repositories:
   * [MPox Infection Dynamics](https://www.jasss.org/27/2/6.html)
   * [Analysis of crisis text messages during COVID-19 in Ireland](https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2284242)
   * [Age-Cohort COVID-19 Modelling as part of Ireland's response](https://www.sciencedirect.com/science/article/pii/S0377221723006136)
+  * [Inferring the reproduction number using deterministic and semi-deterministic compartmental models](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010206)
 
 **Education and Public Engagement (EPE) activities**
 
